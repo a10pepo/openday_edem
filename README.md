@@ -8,10 +8,7 @@ A continuación, se describen los pasos para crear un bucket en AWS S3 utilizand
 ### Prerrequisitos
 
 1. **Cuenta de AWS**: Asegúrate de tener una cuenta activa en AWS usando las credenciales dadas.
-2. **Acceso a la Consola Web**: Inicia sesión en la consola web de AWS en [https://nw-pedronieto-sandbox.signin.aws.amazon.com/console
-](https://nw-pedronieto-sandbox.signin.aws.amazon.com/console
-).
-
+2. **Acceso a la Consola Web**: Inicia sesión en la consola web de AWS en [https://nw-pedronieto-sandbox.signin.aws.amazon.com/console](https://nw-pedronieto-sandbox.signin.aws.amazon.com/console).
 ### Pasos para Crear un Bucket
 
 1. **Acceder al Servicio S3**:
